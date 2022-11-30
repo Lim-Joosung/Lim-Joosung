@@ -9,4 +9,6 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lim-Joosung&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lim-Joosung&langs_count=3&layout=compact&theme=dark)
+
+
